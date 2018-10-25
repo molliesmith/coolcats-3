@@ -9,6 +9,7 @@
   "author": "Mollie Smith",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^10.12.0",
     "commander": "^2.19.0"
   }
 }
